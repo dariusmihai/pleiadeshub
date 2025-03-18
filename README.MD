@@ -1,5 +1,5 @@
 # Pre-Alpha stage. Not suitable for use just yet.
-**But stay close, this will be ready in no time.**
+**But stay close, something goooood is cooking !**  
 
 ## Overview
 
