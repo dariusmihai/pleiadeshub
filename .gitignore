@@ -1,0 +1,13 @@
+# Ignore virtual environment directory
+venv/
+
+# Ignore tests directory
+tests/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore all Python files starting with "scratchpad-"
+scratchpad-*.py
+
+*.pyc
